@@ -58,3 +58,4 @@ CHECKS = [
 
 def run_all(path):
     return [check(path) for check in CHECKS]
+    #just practicing
